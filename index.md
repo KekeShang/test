@@ -5,7 +5,7 @@
 本人2017年12月博士毕业于西北工业大学兵器科学与技术专业，2018年4月至今在南京大学任教。本人科研兴趣广泛，长期从事信息、计算机、数学、统计物理和社会学的交叉研究。主要研究领域有链路预测、零模型、在线社交网和网络信息传播等。
 
 ## 本人邮箱是kekeshang@nju.edu.cn,欢迎大家交流！
-![image](https://github.com/KekeShang/kekeshang.github.io/blob/master/mmexport1525713230628.jpg）
+![image](https://github.com/KekeShang/kekeshang.github.io/blob/master/mmexport1525713230628.jpg)
 
 ## 科研情况
 
