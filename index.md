@@ -6,9 +6,11 @@
 
 ## 科研情况
 
-• Physica A: Statistical Mechanics and its Applications 杰出审稿人
-• Chaos 审稿人
-论文：
+### Physica A: Statistical Mechanics and its Applications 杰出审稿人
+
+### Chaos 审稿人
+
+
 1, Ke-ke Shang*, Michael Small, Xiao-Ke Xu, and Wei-sheng Yan*.
 "The role of direct links for link prediction in evolving networks." EPL
 (Europhysics Letters), 117 (2017) 28002.
