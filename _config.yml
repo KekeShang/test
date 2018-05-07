@@ -1,2 +1,9 @@
 theme: jekyll-theme-merlot
 title: Keke Shang
+paginate: 2
+author: 尚可可
+aubout: 南京大学
+follow: 社交
+indexContent: true
+imagelink: https://github.com/KekeShang/kekeshang.github.io/blob/master/logo.png
+copyright: 尚可可
