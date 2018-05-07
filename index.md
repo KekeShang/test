@@ -1,4 +1,4 @@
-![image](https://github.com/account)
+![image](https://avatars2.githubusercontent.com/u/39056408?s=400&u=faed1de8e25207582cc91356c8e66200b7920735&v=4)
 
 ## Hi, 大家好。我是南京大学新闻传播学院助理研究员尚可可博士。
 
