@@ -1,6 +1,9 @@
 title: [Keke Shang]
-show_downloads: [false] 
-description: [Hi, everyone!]
-<head>
-<link rel="icon" href="https://github.com/KekeShang/kekeshang.github.io/blob/master/logo.png" type="image/x-icon"/>
-</head>
+paginate: 2
+author: 尚可可
+aubout: 南京大学
+follow: CV
+indexContent: true
+imagelink: https://github.com/KekeShang/kekeshang.github.io/blob/master/logo.png
+theme: SCIENCE
+copyright: 尚可可
