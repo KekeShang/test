@@ -11,7 +11,7 @@
 
 ### Physica A: Statistical Mechanics and its Applications 杰出审稿人
 
-### Chaos 审稿人
+### Chaos: An Interdisciplinary Journal of Nonlinear Science 审稿人
 
 
 1, Ke-ke Shang*, Michael Small, Xiao-Ke Xu, and Wei-sheng Yan*.
@@ -67,14 +67,13 @@ networks. " EPJB 已收录
 
 国家自然科学基金（61473225）（控制类一项）；
 
-国家自然科学基金（61004104，61104143, 61304167，61374170）（复
-杂网络类四项）；
+国家自然科学基金（61004104，61104143, 61304167，61374170）（复杂网络类四项）；
 
 山东省自然科学基金（ZR2011FQ008）；
 
 中央高校基本科研业务费专项资金（DC120101132, DC13010215）；
 
-CCF-腾讯科研基金（AGR20130112）.
+CCF-腾讯科研基金（AGR20130112）。
 
 ## 会议情况
 
@@ -105,8 +104,7 @@ networks；
 
 2014 年 优秀研究生（一等学业奖）；
 
-2014 年 国家留学基金委员会“国家建设高水平大学公
-派研究生项目”资助（24 个月）；
+2014 年 国家留学基金委员会“国家建设高水平大学公派研究生项目”资助（24 个月）；
 
 2015 年 优秀研究生（一等学业奖）；
 
@@ -116,6 +114,6 @@ networks；
 
 ## 专业技能
 
-熟练使用Matlab/Python/R 处理大数据；
+熟练使用Matlab/Python/R 处理大数据
 
 熟练使用 Latex/SmartDraw等论文撰写/画图工具
