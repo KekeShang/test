@@ -19,7 +19,7 @@
 (Europhysics Letters), 117 (2017) 28002.
 SCI IF: 1.957 复杂网络领域主流期刊
 
-### http://iopscience.iop.org/article/10.1209/0295-5075/117/28002
+### http://dx.doi.org/10.1209/0295-5075/117/28002
 
 2, Ke-ke Shang*, Michael Small, and Wei-sheng Yan. "Fitness networks
 for real world systems via modified preferential attachment." Physica A:
