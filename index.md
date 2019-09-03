@@ -35,7 +35,8 @@ SCI检索 检索号 WOS:000392793500073
 
 6, Ke-ke Shang, Wei-sheng Yan, and Michael Small*. “Evolving networks—Using past structure to predict the future.” Physica A: Statistical Mechanics and its Applications 455 (2016): 120-135. 
 SCI检索 检索号 WOS:000375512400012
- 
+
+
 7, Ke-Ke Shang, Wei-Sheng Yan, and Xiao-Ke Xu*. “Limitation of degree information for analyzing the interaction evolution in online social networks.” International Journal of Modern Physics C 25.10 (2014): 1450056.  
 SCI检索 检索号 WOS:000342160700012
 
