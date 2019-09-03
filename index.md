@@ -47,7 +47,8 @@ SCI检索 检索号 WOS:000437754400001
 
 9, Jin-long Huang, Ru Xu, Dong-dong Cheng, Su-lan Zhang, & Ke-ke Shang. (2019). A Novel Hybrid Clustering Algorithm Based on Minimum Spanning Tree of Natural Core Points. IEEE Access, 7, 43707-43720.
 SCI检索 检索号 WOS:000465633500001
-      
+
+
 10, 尚可可, 许小可. 基于置乱算法的复杂网络零模型构造及其应用 [J]. 电子科技大学学报, 2014, 43(1): 7-20.
 EI检索 
 
@@ -60,6 +61,7 @@ EI检索
 
 ## 主持项目（2项）
 2019.01–2021.12 国家自然科学基金青年项目：“基于链路预测和零模型的演化网络结 构分析”（61803047）（主持人）
+
 2019.01-2019.12腾讯-南京大学-中国新闻史学会计算传播学研究委员会互联网传播学项目:“演化社交网络上的传播路径预测”（主持人）
 
 ## 参与项目(12项，暂列6项)
