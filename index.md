@@ -26,7 +26,7 @@ SCI检索 检索号 WOS:000475984700033
 
 ### 论文2被美国物理联合会官网、美国科学促进会旗下期刊、南京大学新闻网等国内外10余家主流学术网站广泛报道
 
-3, Ke-ke Shang*, Michael Small, Xiao-Ke Xu, and Wei-sheng Yan*. “The role of direct links for link prediction in evolving networks.” EPL (Europhysics Letters), 117 (2017) 28002. 
+3, Ke-ke Shang*, Michael Small, Xiao-Ke Xu, and Wei-sheng Yan*. “The role of direct links for link prediction in evolving networks.” EPL (Europhysics Letters), 117 (2017) 28002.
 SCI检索 检索号 WOS:000397026400021
 
 4, Ke-ke Shang*, Michael Small, and Wei-sheng Yan. “Fitness networks for real world systems via modified preferential attachment.” Physica A: Statistical Mechanics and its Applications, 474 (2017): 49-60. 
