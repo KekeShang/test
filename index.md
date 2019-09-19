@@ -19,7 +19,7 @@ IEEE ACCESS 审稿人
 
 ## 发表期刊论文（12篇，第一作者 SCI 7 篇，第一作者EI 1 篇，其中 6 篇兼通讯作者）
 
-1, Ke-ke Shang*, et al. " The key to the weak-ties phenomenon." EPL (Europhysics Letters), accepted
+1, Ke-ke Shang*, et al. " The key to the weak-ties phenomenon." EPL (Europhysics Letters), 127(2019): 48002.
 
 2, Ke-ke Shang*, et al. "Link prediction for tree-like networks." Chaos: An Interdisciplinary Journal of Nonlinear Science 29.6 (2019): 061103.
 SCI检索 检索号 WOS:000475984700033
