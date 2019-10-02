@@ -1,34 +1,36 @@
-![image](../39056408.jpg)
+# About Me
 
-# Hi! I am Ke-ke Shang.
+> I did a PhD in complex networks at Northwestern Polytechnical University while studying as a visiting student at The University of Western Australia. I have publised 7 papers as the first author in high-quality physical journals. My research interests are in Complex Systems, Complex Network, Link Prediction and Computational Modelling. I also have reviewed more than 40 papers and projects for international journals, conferences and the National Natural Science Foundation of China. I am currently an assistant professor in the Computational Communication Collaboratory of Nanjing University. I hold the associate secretary-general in the Computational Communication Research Association of the Chinese Association for Journalism and Mass Communication, the teaching secretary in the Communication Department of the Nanjing University and the master supervisor in Chongqing University of Posts and Telecommunications. 
 
 > 本人2017年12月博士毕业于西北工业大学兵器科学与技术专业，2018年4月至今在南京大学任教，以第一作者在国际经典物理期刊发表SCI论文7篇，主持国家自然科学基金青年项目1项、计算传播学研究委员会社科类项目1项，参与国家、省部级自科类项目10余项、省部级社科类项目2项。2015年2月至2017年2月在西澳大利亚大学进行博士联合培养，期间激发广泛的科研兴趣，主要从事信息、计算机、数学、统计物理和社会学的交叉研究，研究方向有链路预测、零模型、在线社交网络和网络信息传播等。为网络科学领域3本主流SCI期刊的审稿人，重庆邮电大学计算机科学与技术学院外聘硕士生导师，国家自然科学基金通讯评审人，中国新闻史学会计算传播学研究委员会首任副秘书长（2018.10 -2020.10）。
-> 
-> I did a PhD in complex networks at Northwestern Polytechnical University while studying as a visiting student at The University of Western Australia. I have publised 7 papers as the first author in high-quality physical journals. 
-I also have reviewed more than 40 papers and projects for international journals, conferences and the National Natural Science
-Foundation of China. I am currently an assistant professor in the Computational Communication Collaboratory of Nanjing University. I hold the associate secretary-general in the Computational Communication Research Association of the Chinese Association for Journalism and Mass Communication, the teaching secretary in the Communication Department of the Nanjing University and the master supervisor in Chongqing University of Posts and Telecommunications.
 
 > Email: kekeshang@nju.edu.cn
 ![image](../mmexport1525713230628.jpg)
 
-## 科研情况
+```
+Physica A: Statistical Mechanics and its Applications  2017 Outstanding reviewer
 
-Physica A: Statistical Mechanics and its Applications 2017年度杰出审稿人
+Chaos: An Interdisciplinary Journal of Nonlinear Science  reviewer
 
-Chaos: An Interdisciplinary Journal of Nonlinear Science 审稿人
+EPL(Europhysics Letters)  reviewer
 
-EPL(Europhysics Letters) 审稿人
+IEEE ACCESS  reviewer
+```
 
-IEEE ACCESS 审稿人
+# Publications （期刊论文）
 
-## 发表期刊论文（12篇，第一作者 SCI 7 篇，第一作者EI 1 篇，其中 6 篇兼通讯作者）
+```
+Major (peer-reviewed) publications, sorted by year. To obtain copies of these papers please vist [my Researchgate](https://www.researchgate.net/profile/Keke_Shang). (at which point I believe I am still entitled to give you specific, personal and individual permission to download from this repository) or contact the publishers directly.
+```
 
 1, Ke-ke Shang*, et al. " The key to the weak-ties phenomenon." EPL (Europhysics Letters), 127(2019): 48002.
 
 2, Ke-ke Shang*, et al. "Link prediction for tree-like networks." Chaos: An Interdisciplinary Journal of Nonlinear Science 29.6 (2019): 061103.
 SCI检索 检索号 WOS:000475984700033
 
-### 论文2被美国物理联合会官网、美国科学促进会旗下期刊、南京大学新闻网等国内外10余家主流学术网站广泛报道
+*   论文Link prediction for tree-like networks被美国物理联合会官网、美国科学促进会旗下期刊、南京大学新闻网等国内外10余家主流学术网站广泛报道。
+*   _Link prediction for tree-like networks_ has been reported by AIP, AAAS, NJU and so on.
+
 
 3, Ke-ke Shang*, Michael Small, Xiao-Ke Xu, and Wei-sheng Yan*. “The role of direct links for link prediction in evolving networks.” EPL (Europhysics Letters), 117 (2017) 28002.
 SCI检索 检索号 WOS:000397026400021
@@ -63,8 +65,10 @@ EI检索
 中文核心
 
 
-## 主持项目（2项）
-### 2019.01–2021.12 国家自然科学基金青年项目：“基于链路预测和零模型的演化网络结 构分析”（61803047）（主持人）
+# Projects (主持项目)
+> 2019.01–2021.12 国家自然科学基金青年项目：“基于链路预测和零模型的演化网络结 构分析”（61803047）（主持人）
+>
+> _Analysis of evolving network structure based on link prediction and null models_ National Natural Science Foundation of China 61803047
 
 2019.01-2019.12腾讯-南京大学-中国新闻史学会计算传播学研究委员会互联网传播学项目:“演化社交网络上的传播路径预测”（主持人）
 
@@ -131,3 +135,6 @@ networks；
 熟练使用Matlab/Python/R 处理大数据
 
 熟练使用 Latex/SmartDraw等论文撰写/画图工具
+
+![image](../39056408.jpg)
+
