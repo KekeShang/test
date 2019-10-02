@@ -89,7 +89,7 @@ National Natural Science Foundation of China 61803047
 
 # More information in Chinese
 
-Please see [more information](./information.html).
+Please see [more information](../information.html).
 
 ![image](../39056408.jpg)
 
