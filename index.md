@@ -89,7 +89,7 @@ National Natural Science Foundation of China 61803047
 
 # More information in Chinese
 
-Please see 
+Please see [more information](https://github.com/KekeShang/kekeshang.github.io/blob/master/information.md).
 
 ![image](../39056408.jpg)
 
