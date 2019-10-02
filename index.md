@@ -93,7 +93,7 @@ National Natural Science Foundation of China 61803047
 
 Please see [more information in Chinese](../information.html).
 
-关于本人的更多中文简介请点击 [more information in Chinese](../information.html
+关于本人的更多中文简介请点击 [more information in Chinese](../information.html).
 
 ![image](../39056408.jpg)
 
