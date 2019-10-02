@@ -76,9 +76,10 @@ EI检索
 
 
 # Projects
-> 2019.01–2021.12 国家自然科学基金青年项目：“基于链路预测和零模型的演化网络结 构分析”（61803047）（主持人）
+> 2019.01–2021.12 国家自然科学基金青年项目：“基于链路预测和零模型的演化网络结构分析”（61803047）（主持人）
 >
-> _Analysis of evolving network structure based on link prediction and null models_ National Natural Science Foundation of China 61803047
+> *Analysis of evolving network structure based on link prediction and null models* 
+National Natural Science Foundation of China 61803047
 
 2019.01-2019.12 腾讯-南京大学-中国新闻史学会计算传播学研究委员会互联网传播学项目:“演化社交网络上的传播路径预测”（主持人）
 
