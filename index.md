@@ -9,28 +9,37 @@
 
 ```
 Physica A: Statistical Mechanics and its Applications  2017 Outstanding reviewer
+```
 
+```
 Chaos: An Interdisciplinary Journal of Nonlinear Science  reviewer
+```
 
+```
 EPL(Europhysics Letters)  reviewer
+```
 
+```
 IEEE ACCESS  reviewer
 ```
 
 # Publications （期刊论文）
 
-```
-Major (peer-reviewed) publications, sorted by year. To obtain copies of these papers please vist [my Researchgate](https://www.researchgate.net/profile/Keke_Shang). (at which point I believe I am still entitled to give you specific, personal and individual permission to download from this repository) or contact the publishers directly.
-```
+* Major (peer-reviewed) publications, sorted by year. To obtain copies of these papers please vist [my Researchgate](https://www.researchgate.net/profile/Keke_Shang). (at which point I believe I am still entitled to give you specific, personal and individual permission to download from this repository) or contact the publishers directly.
+
 
 1, Ke-ke Shang*, et al. " The key to the weak-ties phenomenon." EPL (Europhysics Letters), 127(2019): 48002.
 
 2, Ke-ke Shang*, et al. "Link prediction for tree-like networks." Chaos: An Interdisciplinary Journal of Nonlinear Science 29.6 (2019): 061103.
 SCI检索 检索号 WOS:000475984700033
 
-*   论文Link prediction for tree-like networks被美国物理联合会官网、美国科学促进会旗下期刊、南京大学新闻网等国内外10余家主流学术网站广泛报道。
-*   _Link prediction for tree-like networks_ has been reported by AIP, AAAS, NJU and so on.
+```
+论文Link prediction for tree-like networks被美国物理联合会官网、美国科学促进会旗下期刊、南京大学新闻网等国内外10余家主流学术网站广泛报道。
+```
 
+```
+''Link prediction for tree-like networks'' has been reported by AIP, AAAS, NJU and so on.
+```
 
 3, Ke-ke Shang*, Michael Small, Xiao-Ke Xu, and Wei-sheng Yan*. “The role of direct links for link prediction in evolving networks.” EPL (Europhysics Letters), 117 (2017) 28002.
 SCI检索 检索号 WOS:000397026400021
