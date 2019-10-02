@@ -79,7 +79,11 @@ EI检索
 >
 > _Analysis of evolving network structure based on link prediction and null models_ National Natural Science Foundation of China 61803047
 
-2019.01-2019.12腾讯-南京大学-中国新闻史学会计算传播学研究委员会互联网传播学项目:“演化社交网络上的传播路径预测”（主持人）
+2019.01-2019.12 腾讯-南京大学-中国新闻史学会计算传播学研究委员会互联网传播学项目:“演化社交网络上的传播路径预测”（主持人）
+
+
+***
+# More information in Chinese
 
 ## 参与项目(12项，暂列8项)
 2019.09-2022.08 上海市哲学社会科学规划青年课题“基于文化创意产业集聚区的上海城市文化品牌建构及传播策略研究”（2019EXW004) (排名前3）
