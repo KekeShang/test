@@ -24,7 +24,7 @@ EPL(Europhysics Letters)  reviewer
 IEEE ACCESS  reviewer
 ```
 
-# Publications （期刊论文）
+# Publications
 
 * Major (peer-reviewed) publications, sorted by year. To obtain copies of these papers please vist [my Researchgate](https://www.researchgate.net/profile/Keke_Shang). (at which point I believe I am still entitled to give you specific, personal and individual permission to download from this repository) or contact the publishers directly.
 
@@ -75,7 +75,7 @@ EI检索
 中文核心
 
 
-# Projects (主持项目)
+# Projects
 > 2019.01–2021.12 国家自然科学基金青年项目：“基于链路预测和零模型的演化网络结 构分析”（61803047）（主持人）
 >
 > _Analysis of evolving network structure based on link prediction and null models_ National Natural Science Foundation of China 61803047
@@ -88,7 +88,7 @@ EI检索
 
 # More information in Chinese
 
-## 参与项目(12项，暂列8项)
+### 参与项目
 2019.09-2022.08 上海市哲学社会科学规划青年课题“基于文化创意产业集聚区的上海城市文化品牌建构及传播策略研究”（2019EXW004) (排名前3）
 
 2019.07-2022.06 重庆市自然科学基金(基础研究与前沿探索专项)面上项目“受生物启发的鲁棒膜计算模型及应用研究"(cstc2019jcyj-msxmX0385) (排名前3）
@@ -106,7 +106,7 @@ EI检索
 2012.01-2014.12国家自然科学基金青年项目：“基于子图结构和功能的复杂网络链路预测研究”（61004104）  
 
 
-## 会议情况
+### 会议情况
 
 *2019年口头报告共计 5 场，待更新；
 
@@ -127,7 +127,7 @@ networks；
 
 *2012 年6 月 中北大学 “复杂网络上的动力学传播”暑期学校。
 
-## 个人荣誉（部分）
+### 个人荣誉（部分）
 
 2009 年 国家二等助学金；
 
@@ -146,7 +146,7 @@ networks；
 2016 年 昆船奖学金。
 
 
-## 专业技能
+### 专业技能
 
 熟练使用Matlab/Python/R 处理大数据
 
