@@ -1,5 +1,5 @@
 
-* 主要个人简介见[primary information in English and Chinese](../index.html).
+* 主要个人简介见 [primary information in English and Chinese](../index.html).
 
 * 更多关于本人的中文信息见本页
 
