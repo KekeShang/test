@@ -28,7 +28,7 @@ IEEE ACCESS  reviewer
 
 # Publications
 
-* Major (peer-reviewed) publications, sorted by year. To obtain copies of these papers please vist [my Researchgate](https://www.researchgate.net/profile/Keke_Shang). (at which point I believe I am still entitled to give you specific, personal and individual permission to download from this repository) or contact the publishers directly.
+* Major (peer-reviewed) publications, sorted by year. To obtain manuscripts of these papers please vist [my Researchgate](https://www.researchgate.net/profile/Keke_Shang)(at which point I believe I am still entitled to give you specific, personal and individual permission to download from this repository) or contact the publishers directly.
 
 
 1, Ke-ke Shang*, et al. " The key to the weak-ties phenomenon." EPL (Europhysics Letters), 127(2019): 48002.
