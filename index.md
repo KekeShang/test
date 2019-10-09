@@ -32,6 +32,7 @@ IEEE ACCESS  reviewer
 
 
 1, Ke-ke Shang*, et al. " The key to the weak-ties phenomenon." EPL (Europhysics Letters), 127(2019): 48002.
+SCI检索 检索号 WOS:000487119200001
 
 2, Ke-ke Shang*, et al. "Link prediction for tree-like networks." Chaos: An Interdisciplinary Journal of Nonlinear Science 29.6 (2019): 061103.
 SCI检索 检索号 WOS:000475984700033
