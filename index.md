@@ -24,6 +24,10 @@ EPL(Europhysics Letters)  reviewer
 ```
 
 ```
+IJMPC(INTERNATIONAL JOURNAL OF MODERN PHYSICS C)  reviewer
+```
+
+```
 IEEE ACCESS  reviewer
 ```
 
