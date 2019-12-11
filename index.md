@@ -31,6 +31,10 @@ IJMPC(INTERNATIONAL JOURNAL OF MODERN PHYSICS C)  reviewer
 IEEE ACCESS  reviewer
 ```
 
+```
+Concurrency and Computation: Practice and Experience  reviewer
+```
+
 # Publications
 
 * Major (peer-reviewed) publications, sorted by year. To obtain manuscripts of these papers please vist [my Researchgate](https://www.researchgate.net/profile/Keke_Shang) (at which point I believe I am still entitled to give you specific, personal and individual permission to download from this repository) or contact the publishers directly.
