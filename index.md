@@ -12,6 +12,10 @@
 > Email: kekeshang@nju.edu.cn
 
 ```
+New Journal of Physics
+```
+
+```
 Physica A: Statistical Mechanics and its Applications  2017 Outstanding reviewer
 ```
 
