@@ -40,15 +40,21 @@ IEEE ACCESS  reviewer
 CCPE(Concurrency and Computation: Practice and Experience)  reviewer
 ```
 
+```
+JPhys Complexity(Journal of Physics: Complexity) reviewer
+```
+
 # Publications
 
 * Major (peer-reviewed) publications, sorted by year. To obtain manuscripts of these papers please vist [my Researchgate](https://www.researchgate.net/profile/Keke_Shang) (at which point I believe I am still entitled to give you specific, personal and individual permission to download from this repository) or contact the publishers directly.
 
+1, Ke-ke Shang*, et al. " A novel metric for community detection." EPL (Europhysics Letters), 129(2020): 68002.
 
-1, Ke-ke Shang*, et al. " The key to the weak-ties phenomenon." EPL (Europhysics Letters), 127(2019): 48002.
+
+2, Ke-ke Shang*, et al. " The key to the weak-ties phenomenon." EPL (Europhysics Letters), 127(2019): 48002.
 SCI检索 检索号 WOS:000487119200001
 
-2, Ke-ke Shang*, et al. "Link prediction for tree-like networks." Chaos: An Interdisciplinary Journal of Nonlinear Science 29.6 (2019): 061103.
+3, Ke-ke Shang*, et al. "Link prediction for tree-like networks." Chaos: An Interdisciplinary Journal of Nonlinear Science 29.6 (2019): 061103.
 SCI检索 检索号 WOS:000475984700033
 
 ```
@@ -59,36 +65,36 @@ SCI检索 检索号 WOS:000475984700033
 ''Link prediction for tree-like networks'' has been reported by AIP, AAAS, NJU and so on.
 ```
 
-3, Ke-ke Shang*, Michael Small, Xiao-Ke Xu, and Wei-sheng Yan*. “The role of direct links for link prediction in evolving networks.” EPL (Europhysics Letters), 117 (2017) 28002.
+4, Ke-ke Shang*, Michael Small, Xiao-Ke Xu, and Wei-sheng Yan*. “The role of direct links for link prediction in evolving networks.” EPL (Europhysics Letters), 117 (2017) 28002.
 SCI检索 检索号 WOS:000397026400021
 
-4, Ke-ke Shang*, Michael Small, and Wei-sheng Yan. “Fitness networks for real world systems via modified preferential attachment.” Physica A: Statistical Mechanics and its Applications, 474 (2017): 49-60. 
+5, Ke-ke Shang*, Michael Small, and Wei-sheng Yan. “Fitness networks for real world systems via modified preferential attachment.” Physica A: Statistical Mechanics and its Applications, 474 (2017): 49-60. 
 SCI检索 检索号 WOS:000397371400006
 
-5, Ke-ke Shang*, Michael Small and Wei-sheng Yan. “Link direction for link prediction.” Physica A: Statistical Mechanics and its Applications 469 (2017) 767–776.  
+6, Ke-ke Shang*, Michael Small and Wei-sheng Yan. “Link direction for link prediction.” Physica A: Statistical Mechanics and its Applications 469 (2017) 767–776.  
 SCI检索 检索号 WOS:000392793500073
 
-6, Ke-ke Shang, Wei-sheng Yan, and Michael Small*. “Evolving networks—Using past structure to predict the future.” Physica A: Statistical Mechanics and its Applications 455 (2016): 120-135. 
+7, Ke-ke Shang, Wei-sheng Yan, and Michael Small*. “Evolving networks—Using past structure to predict the future.” Physica A: Statistical Mechanics and its Applications 455 (2016): 120-135. 
 SCI检索 检索号 WOS:000375512400012
 
 
-7, Ke-Ke Shang, Wei-Sheng Yan, and Xiao-Ke Xu*. “Limitation of degree information for analyzing the interaction evolution in online social networks.” International Journal of Modern Physics C 25.10 (2014): 1450056.  
+8, Ke-Ke Shang, Wei-Sheng Yan, and Xiao-Ke Xu*. “Limitation of degree information for analyzing the interaction evolution in online social networks.” International Journal of Modern Physics C 25.10 (2014): 1450056.  
 SCI检索 检索号 WOS:000342160700012
 
-8, Wen-kuo Cui, Ke-ke Shang, Yong-jian Zhang, Jing Xiao, Xiao-ke Xu*.  “Constructing null networks for community detection in complex networks.” European Physical Journal B, 2018, 91(7): 145.  
+9, Wen-kuo Cui, Ke-ke Shang, Yong-jian Zhang, Jing Xiao, Xiao-ke Xu*.  “Constructing null networks for community detection in complex networks.” European Physical Journal B, 2018, 91(7): 145.  
 SCI检索 检索号 WOS:000437754400001
 
-9, Jin-long Huang, Ru Xu, Dong-dong Cheng, Su-lan Zhang, & Ke-ke Shang. (2019). A Novel Hybrid Clustering Algorithm Based on Minimum Spanning Tree of Natural Core Points. IEEE Access, 7, 43707-43720.
+10, Jin-long Huang, Ru Xu, Dong-dong Cheng, Su-lan Zhang, & Ke-ke Shang. (2019). A Novel Hybrid Clustering Algorithm Based on Minimum Spanning Tree of Natural Core Points. IEEE Access, 7, 43707-43720.
 SCI检索 检索号 WOS:000465633500001
 
 
-10, 尚可可, 许小可. 基于置乱算法的复杂网络零模型构造及其应用 [J]. 电子科技大学学报, 2014, 43(1): 7-20.
+11, 尚可可, 许小可. 基于置乱算法的复杂网络零模型构造及其应用 [J]. 电子科技大学学报, 2014, 43(1): 7-20.
 EI检索 
 
-11，许小可，崔文阔，崔丽艳，肖婧，尚可可. 无权网络零模型的构造及应用 [J]. 电子科技大学学报, 2019, 48(1): 122-141.
+12，许小可，崔文阔，崔丽艳，肖婧，尚可可. 无权网络零模型的构造及应用 [J]. 电子科技大学学报, 2019, 48(1): 122-141.
 EI检索
   
-12, 姚尊强, 尚可可, 许小可. 加权网络的常用统计量 [J]. 上海理工大学学报, 2012, 34(1): 18-26.
+13, 姚尊强, 尚可可, 许小可. 加权网络的常用统计量 [J]. 上海理工大学学报, 2012, 34(1): 18-26.
 中文核心
 
 
