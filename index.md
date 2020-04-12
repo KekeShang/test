@@ -2,7 +2,7 @@
 
 # About Me
 
-> I did a PhD in complex networks at Northwestern Polytechnical University while studying as a visiting student at The University of Western Australia. I have publised 7 papers as the first author in high-quality physical journals. My research interests are in Complex Systems, Complex Network, Link Prediction and Computational Modelling. I also have reviewed more than 40 papers and projects for international journals, conferences and the National Natural Science Foundation of China. My h index is 7, and i10 index is 5. 
+> I did a PhD in complex networks at Northwestern Polytechnical University while studying as a visiting student at The University of Western Australia. I have publised 9 papers as the first author in high-quality physical journals. My research interests are in Complex Systems, Complex Network, Link Prediction and Computational Modelling. I also have reviewed more than 40 papers and projects for international journals, conferences and the National Natural Science Foundation of China. My h index is 7, and i10 index is 5. 
 
 >
 > I am currently an assistant professor in the Computational Communication Collaboratory of Nanjing University. I hold the associate secretary-general in the Computational Communication Research Association of the Chinese Association for Journalism and Mass Communication, the teaching secretary in the Communication Department of the Nanjing University and the master supervisor in Chongqing University of Posts and Telecommunications. 
