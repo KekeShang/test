@@ -2,10 +2,10 @@
 
 # About Me
 
-> I did a PhD in complex networks at Northwestern Polytechnical University while studying as a visiting student at The University of Western Australia. I have publised 9 papers as the first author in high-quality physical journals. My research interests are in Complex Systems, Complex Network, Link Prediction and Computational Modelling. I also have reviewed more than 40 papers and projects for international journals, conferences and the National Natural Science Foundation of China. My h index is 7, and i10 index is 5. 
+> I did a PhD in complex networks at Northwestern Polytechnical University while studying as a visiting student at The University of Western Australia. I have publised 9 papers as the first author in high-quality physical journals. My research interests are in Complex Systems, Complex Network, Link Prediction and Computational Modelling. I also have reviewed more than 60 papers and projects for international journals, conferences and the National Natural Science Foundation of China. My h index is 7, and i10 index is 5. 
 
 >
-> I am currently an assistant professor in the Computational Communication Collaboratory of Nanjing University. I hold the associate secretary-general in the Computational Communication Research Association of the Chinese Association for Journalism and Mass Communication, the teaching secretary in the Communication Department of the Nanjing University and the master supervisor in Chongqing University of Posts and Telecommunications. 
+> I am currently an associate professor in the Computational Communication Collaboratory of Nanjing University. I hold the associate secretary-general in the Computational Communication Research Association of the Chinese Association for Journalism and Mass Communication, the teaching secretary in the Communication Department of the Nanjing University and the master supervisor in Chongqing University of Posts and Telecommunications. 
 
 > 本人2017年12月博士毕业于西北工业大学兵器科学与技术专业，2018年4月至今在南京大学任教，以第一作者在国际经典物理期刊发表SCI论文9篇，主持国家自然科学基金青年项目1项、计算传播学研究委员会社科类项目1项，参与国家、省部级自科类项目10余项、省部级社科类项目2项。2015年2月至2017年2月在西澳大利亚大学进行博士联合培养，期间激发了广泛的科研兴趣，主要从事信息、计算机、数学、统计物理和社会学的交叉研究，研究方向有链路预测、零模型、在线社交网络和网络信息传播等。为7本SCI期刊的审稿人，网络科学领域5本主流SCI期刊的审稿人，重庆邮电大学计算机科学与技术学院外聘硕士生导师，国家自然科学基金通讯评审人，中国新闻史学会计算传播学研究委员会首任副秘书长（2018.10 -2020.10), 我的谷歌h指数为7，i10指数为5。
 
@@ -42,6 +42,14 @@ CCPE(Concurrency and Computation: Practice and Experience)  reviewer
 
 ```
 JPhys Complexity(Journal of Physics: Complexity) reviewer
+```
+
+```
+Scientific Reports  reviewer
+```
+
+```
+IJMPB(INTERNATIONAL JOURNAL OF MODERN PHYSICS b)  reviewer
 ```
 
 # Publications
